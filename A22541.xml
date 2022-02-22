@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation for preuenting of deceipt vsed in the importation of madder.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1631</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22541</idno>
+            <idno type="STC">STC 8976</idno>
+            <idno type="STC">ESTC S3579</idno>
+            <idno type="EEBO-CITATION">33150506</idno>
+            <idno type="OCLC">ocm 33150506</idno>
+            <idno type="VID">28638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22541)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28638)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:136)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation for preuenting of deceipt vsed in the importation of madder.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[3] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie: and by the Assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXXI [1631]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For patent granted to G. Bedford for grading and sealing imported madder.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Giuen at Our Court at East-Greenwich, The fifteenth day of Iune, in seuenth yeere of Our Reigne."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quality control --  Law and legislation --  Great Britain.</term>
+               <term>Madder --  Quality --  Early works to 1800.</term>
+               <term>Dyes and dyeing --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:28638:1"/>
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT.</q>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+               </figure> 
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head>
+               <g ref="char:leaf">❧</g> A Proclamation for preuenting of Deceipt vſed in the Importation of Madder.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the true workmanſhip of Manufactures in euery Nation</hi> doth preſerue not
+onely the worth, but alſo the eſteeme thereof, to the great auaile and profit of that Nation.
+And whereas the Woollen Cloathes of this Kingdome being well and perfectly made, Dyed and
+dreſſed, are in great reputation in Forreine Nations, and are a great ad<g ref="char:EOLhyphen"/>dition to the wealth
+of this Kingdome, and the falſe and deceitfull Dy<g ref="char:EOLhyphen"/>ing thereof, doth much detract from their
+eſtimation. And whereas <hi>Madder</hi> which is a Dying Stuffe of principall vſe for laying
+the ground of many ſeuerall colours, is brought from Forreine parts into this Realme, the
+deceitfull mixture whereof with Sand and other<g ref="char:EOLhyphen"/>wiſe, doth not onely deceiue the Buyer, but doth
+alſo fret the Cloth, and make the Colours defectiue. Wee therefore vpon mature aduice and
+deliberation by Our Letters Patents Sealed with Our Great Seale of <hi>England,</hi> bearing date
+at <hi>Weſtminſter</hi> the twelfth day of Ianuary, in the third yeere of Our Reigne for the
+cauſes therein expreſſed, and to preuent and ſuppreſſe the ſaid deceipt and abuſe,
+Did ordaine and appoint <hi>George Bedford</hi> Gen<g ref="char:EOLhyphen"/>tleman (who by his induſtry and experience
+had found out a perfect way for the diſcouerie and re<g ref="char:EOLhyphen"/>formation of that abuſe) to be Our
+Officer by himſelfe, or his Deputies inſtructed by him, to ſearch all <hi>Madder</hi> which
+ſhould from thenceforth be imported before the ſame ſhould bee put to Sale, and to diſcouer
+the vndue mixtures of ſuch imported <hi>Madder,</hi> and by conuenient Markes and Deſcriptions
+by him to be inuented to diſtinguiſh the ſame, that ſo neither the Buyer ſhould be
+couſened, nor the Dyer who ſhould vſe the ſame be abuſed.</p>
+            <p>Neuertheleſſe, We finde that ſome ill diſpoſed perſons importing <hi>Madder,</hi>
+contemning Our Royall commandement in a caſe ſo much tending to the publique good, haue
+hitherto oppoſed Our ſaid Officer in the execution of the truſt committed vnto him, whereby
+the abuſes aforeſaid doe continue, and will increaſe dayly, if the ſame be not preuented.
+We therefore minding the re<g ref="char:EOLhyphen"/>formation of theſe deceipts, and being well ſatiſfied of the
+abilitie of Our ſaid Officer to performe that ſeruice wherewith we haue truſted him, for that
+vpon publique tryall made at the common Hall of the Company of Dyers of Our Citie of
+<hi>London,</hi> he hath made it appeare in the preſence of ſome of the Officers and
+Miniſters of Our Cuſtome-houſe in Our Port of <hi>London,</hi> and of the beſt experienced
+Dyers, that hee is able and ready exactly to performe his duety, Haue thought it fit in a caſe of
+this nature, by this Our Royall Proclamation, to notifie and publiſh Our Royal
+<pb facs="tcp:28638:2"/>will and pleaſure, touching the ſearching and trying
+of all <hi>Madder</hi> imported, and to be impor<g ref="char:EOLhyphen"/>ted before the ſame be put to Sale. And Wee doe
+hereby ſignifie and declare to all whom it doth or may concerne, That the ſaid <hi>George
+Bedford</hi> is the Officer or perſon whom We haue authorized and appointed for the preſent
+execution of that ſeruice, by himſelfe, or his ſufficient Deputies, according to Our ſaid
+Letters Patents, to him granted as aforeſaid: And that Wee ſhall expect and doe require from
+all Our louing Subiects, that due notice be taken thereof, and that a ſtrict and continued
+obedience and conformitie bee yeelded hereunto. And for the better performing Our Royall will and
+pleaſure herein; We doe ſtraitly charge and command all and euery per<g ref="char:EOLhyphen"/>ſon and perſons
+whatſoeuer, whom it may concerne, carefully to prouide and ſee Our Royall will and pleaſure
+obſerued in the Orders and Rules hereafter following, as they tender Our pleaſure, and would
+auoid the contrary at their vttermoſt perill.</p>
+            <p>Firſt therefore Our Royall will and pleaſure is, That all and euery the Maſters of Ships
+or other veſſell wherein <hi>Madder</hi> ſhall bee imported, ſhall from henceforth
+expreſſe and ſet downe in the entry of his Ship and lading thereof euery parcell of goods in
+his Ship, that hee or they ſhall know, or beleeue to bee <hi>Madder</hi> by that name, and no
+otherwiſe, and ſhall affirme the ſame vpon his Oath, as is vſed touching Entries of Goods
+with Our Cuſtomers, and ſhall likewiſe giue a true note in writing vnto Our ſaid Officer or
+his Deputy, attending at Our Cu<g ref="char:EOLhyphen"/>ſtome-houſe for that purpoſe, of euery parcell of
+<hi>Madder</hi> ſo entred, and imported by him in his Ship accordingly.</p>
+            <p>That if the Owners of the ſaid <hi>Madder</hi> or their Aſſignes ſhall not within
+conuenient time after the Shipper of Maſter hath made his Entry with Our Cuſtomers take vp by
+Bill at ſight, and preſent the ſame their <hi>Madder,</hi> and giue notice thereof vnto Our
+ſaid Officer, or his Deputy, to the end hee may take the ſame into his cuſtodie for the
+tryall thereof; Our will and pleaſure is, That then Our Collector, Comptroller &amp; Surueyor of
+Our Cuſtomes and Duties, doe by their generall Warrant cauſe the Wayters of that Ship to take
+vp and ſee the ſaid <hi>Mad<g ref="char:EOLhyphen"/>der</hi> to be weighed and laid into Our ſaid Office, and
+deliuered into the ſafe cuſtodie of Our ſaid Officer, by whom the ſaid <hi>Madder</hi>
+being ſearched, tried and Sealed, ſhall neuertheleſſe be de<g ref="char:EOLhyphen"/>temed and kept, vntill he
+receiue Warrant from Our aforeſaid Officers of Our Cuſtomes and Duties, or their Aſſignes
+or Deputies, that all the Cuſtome and Duties for the ſame due to Vs in Our Cuſtome-houſe be
+duely payed or agreed for, and vntill the Fees due to Our ſaid Officer, and all other charge
+thereto happening through the Owners default bee fully ſatiſfied and paid.</p>
+            <p>That no Porter, Carman, or other perſon ſhall preſume by direction from the Merchant, or
+otherwiſe, to lade, take, helpe or conſent to the carrying of any <hi>Madder</hi> from the
+Port, or place of landing, without Warrant from the ſaid <hi>George Bedford</hi> Our Officer or
+other Officer to be appointed by Vs or of his Deputy or Deputies for the time being. And We doe
+hereby abſo<g ref="char:EOLhyphen"/>lutely prohibite and forbid all perſons of what eſtate, degree or condition
+ſoeuer, directly, or indirectly, to Buy, Sell or put to Sale, or to hide, keepe, conceale, or
+occupy any of the ſaid <hi>Madder,</hi> that hath not beene viewed, ſearched, tryed,
+diſtinguiſhed, and Sealed by Our ſaid Officer his Deputies or Aſſignes, and which hath
+not the Seale of Our ſaid Office and Offi<g ref="char:EOLhyphen"/>cer thereon, vpon paine of Our high diſpleaſure if
+notice be not giuen vnto Our ſaid Officer, before the ſame be diſcouered. And it ſhall be
+at Our Officers choice, whether hee will ſearch try, and Seale the ſaid <hi>Madder</hi> at the
+Cuſtome-houſe, or for the eaſe &amp; conueniencie of the Mer<g ref="char:EOLhyphen"/>chants to doe it at their owne
+houſes, and all <hi>Madder</hi> there and elſewhere found by him or his Deputies to be
+vnſealed, ſhall immediately thereupon bee tryed, ſealed, and diſtinguiſhed.</p>
+            <p>That Our Grauer of Our Mynt and Seales, or any other whom Our ſaid Officer ſhall imploy,
+ſhall from time to time frame and make ſuch ſeuerall Stamps and Seales, to bee en<g ref="char:EOLhyphen"/>grauen with
+Our Armes or otherwiſe, as hee ſhall thinke fit, alwayes obſeruing that the Stamps for the
+beſt ſort of <hi>Madder,</hi> ſhall bee engrauen with this word, <hi>Crop:</hi> for the
+ſecond, ſort, with this word <hi>Ghemeene,</hi> and for the third and worſt ſort, with this
+word <hi>Mull.</hi> And if vpon tryall any of the ſaid <hi>Madder</hi> bee found to bee mixt or
+burthened with aboue two pounds of Earth, or Sand in the hundred weight; Then ſhal the ſaid
+Officer enter in a Booke to be kept for that purpoſe the weight of the Sand or Earth ſo mixt
+therewith, &amp; vpon the Seale ſhal be added this word, Mixt, with a figure, ſhewing that the
+ſame <hi>Madder</hi> is mixt and imperfect, and ſhewing alſo in what proportion in the
+hundred pound weight that mixture is made, vpon which ſide of the Seale alſo ſhall be
+expreſt the name of the Port or place whereinto the ſaid <hi>Madder</hi> was firſt brought,
+with certaine Figures and Letters of Direction vnto Our ſaid Officers Books of Regiſter,
+whereof Wee will all Our louing Subiects to take ſpeciall notice, to the end that after they haue
+bargained for any parcell of the ſaid <hi>Madder,</hi> they may by carrying or ſending a Copie
+of that ſide of the Seale vnto Our Officer in that Cuſtome-houſe (at Cuſtome houſe time)
+haue Certificate vnder his hand of the proportion of the mixture thereof, if the Seale
+<pb facs="tcp:28638:3"/>ſhould be altered. According whereunto Wee doe
+ſtraitly charge and command all perſons ſel<g ref="char:EOLhyphen"/>ling <hi>Madder</hi> to make allowance and
+abatement, vnto the Dyers or other Buyers of ſuch <hi>Mad<g ref="char:EOLhyphen"/>der,</hi> containing ſuch vndue
+mixture.</p>
+            <p>That all Clothiers, Dyers, and all other perſons occupying <hi>Madder</hi> within this
+Kingdome, ſhall according to the proportion of the mixture of the ſaid <hi>Madder</hi> with
+Earth or Sand, adde a like quantitie or proportion of good <hi>Madder</hi> in the Dye Fat, to the
+end the colours therewithall dyed may be made full, good, and without blemiſh or
+imperfection.</p>
+            <p>That the ſaid <hi>George Bedford</hi> Our preſent Officer hauing already taken his corporal
+oath for the faithfull performance of Our truſt, and his duety in this behalfe; Our will and
+pleaſure is, that ſuch Oath ſhall be likewiſe adminiſtred vnto his ſeuerall Deputies,
+and ſo many of them as ſhall be ſufficient for the performing of this ſeruice in the
+ſeuerall Ports of this Kingdome; And Wee doe hereby ſtraitly charge and command all and
+ſingular Maiors, Sheriffes, Iuſtices of the Peace, Bailiffes, Conſtables, Headboroughs,
+Tithingmen, Cuſtomers, Collectors, Comptrol<g ref="char:EOLhyphen"/>lers, Searchers, Waiters, Meſſengers, Farmors,
+Deputies, and all other Our Officers, Mini<g ref="char:EOLhyphen"/>ſters and louing Subiects whatſoeuer, That they and
+euery of them from time to time, and at all times when Our ſaid Officer, or his Deputies in Our
+name ſhall require them thereunto bee aiding and aſſiſting vnto the ſaid <hi>George
+Bedford</hi> Our Officer, his Deputies and Aſſignes for the time being, in all things in or
+about the accompliſhment of Our Royall will and pleaſure in Our ſaid recited Letters Patents
+or in the Warrants of Our high Treaſurer of <hi>England,</hi> as is hereby expreſſed. And
+that they or any of them doe not any way hinder, moleſt, interrupt, let, deteine, or keepe Our
+ſaid Officer his Deputies or Aſſignes, or any, or either of them from or in the execu<g ref="char:EOLhyphen"/>tion of
+this Our Seruice, or any thing touching the Premiſſes, as they tender Our diſpleaſure, and
+will auoid the ſame at their perill.</p>
+            <p>Laſtly, that if any perſon of what eſtate, degree or condition ſoeuer, ſhall hereafter
+offend in any part of the Premiſſes; or ſhall falſifie, deface, alter or take off any of
+the ſaid Seales from the Bale, Fat or other thing in which the ſaid <hi>Madder</hi> was firſt
+brought into this Kingdome, before the ſame be all vſed and ſpent: Our will and pleaſure
+is, That immediate notice bee giuen thereof vnto Our Attourney Generall for the time being, whom
+Wee will and require in Our behalfe to proſecute and proceede againſt the Offendors in Our
+Court of Starchamber or Exchequer-Chamber, or any other Our Courts as the cauſe ſhall require,
+to the end they may receiue ſuch ſeuere Cenſure and coudigne Puniſhment, as by the Lawes
+and Cuſtomes of this Kingdome, or Our Prerogatiue Royal, may be inflicted on them for ſuch
+their Contempt, Diſobedience, and wilfull breach of Our Royall will and Commandement, and for
+their frauds and abuſes.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Eaſt-Greenwich,</hi>
+                  <date>
+                     <hi>The fifteenth day of Iune, in the ſeuenth yeere of Our
+Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent MAIESTIE: and
+by the Aſsignes of Iohn Bill. M.DC.XXXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
